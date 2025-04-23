@@ -12,6 +12,6 @@ In the world, rice, as an important food crop, plays an irreplaceable role in ma
 ![image](https://github.com/user-attachments/assets/d1e2b1c5-b7b5-4212-aa17-54d230fd01a0)
 
 # Checkpoints and Results
-You can download the IP102 v1.1 through the Drive or AliyunDrive.
+You can download the IP102 v1.1 through the [Drive](https://github.com/xpwu95/IP102).
 
 The index and name of each insect pest sub-class in the classification task of the IP102 dataset can be found in classes.txt.
